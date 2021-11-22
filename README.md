@@ -43,9 +43,6 @@ Visit my channel 👉 : https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ
   printing: ^5.6.0
 ```
 
-## Screenshots
-
-<img src="">
 
 ## License
 
